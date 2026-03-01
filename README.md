@@ -1,7 +1,11 @@
 ## Hi there 👋
 
-![Stats](./profile/stats.svg)
-![Top Languages](./profile/top-langs.svg?hide=html,jupyter%20notebook)
+<a href="https://github.com/flemm0/flemm0">
+	<img height=200 align="center" src="./profile/stats.svg" />
+</a>
+<a href="https://github.com/flemm0/flemm0">
+	<img height=200 align="center" src="./profile/top-langs.svg?hide=html,jupyter%20notebook" />
+</a>
 
 <!--
 **flemm0/flemm0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
