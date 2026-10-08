@@ -1,7 +1,7 @@
 ## Hi there 👋
 <p align="center">
-	<img src="./profile/stats.svg" alt="GitHub stats" />
-	<img src="./profile/top-langs.svg" alt="Most used languages" />
+	<img src="./profile/stats.svg" alt="GitHub stats" align="top" />
+	<img src="./profile/top-langs.svg" alt="Most used languages" align="top" />
 </p>
 
 <!--
