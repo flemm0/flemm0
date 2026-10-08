@@ -1,10 +1,9 @@
 ## Hi there 👋
-<a href="https://github.com/flemm0/flemm0">
-	<img height=200 width=350 align="left" src="./profile/stats.svg" />
-</a>
-<a href="https://github.com/flemm0/flemm0">
-	<img height=200 width=350 align="right" src="./profile/top-langs.svg" />
-</a>
+<p align="center">
+	<img src="./profile/stats.svg" alt="GitHub stats" />
+	<img src="./profile/top-langs.svg" alt="Most used languages" />
+</p>
+
 <!--
 **flemm0/flemm0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
